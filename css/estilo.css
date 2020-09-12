@@ -1,0 +1,21 @@
+input{
+    border-color:green;
+    display: block;
+    text-align: center;
+    color:green;
+}
+input:invalid{
+    color:red;
+}
+input[type="checkbox"]{
+ display: inline-block;
+}
+fieldset{
+    border-color:rgb(197, 54, 114);
+    border-radius:15px;
+    
+  
+}
+input [type="radio"]{
+    display:block;
+}
